@@ -35,3 +35,6 @@ elif (
     print(f"Computer chose {computer_weapon}, you win!")
 else:
     print(f"Computer chose {computer_weapon}, Computer wins!")
+
+print ("Thank you for playing!")
+exit()
